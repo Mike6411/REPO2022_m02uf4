@@ -1,0 +1,22 @@
+{
+  "name": "rep2022_m02uf4",
+  "version": "1.0.0",
+  "description": "Prueba de base de datos",
+  "main": "prueba.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mike6411/Rep2022_m02uf4.git"
+  },
+  "author": "Miquel Nadal",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Mike6411/Rep2022_m02uf4/issues"
+  },
+  "homepage": "https://github.com/Mike6411/Rep2022_m02uf4#readme",
+  "dependencies": {
+    "mongodb": "^4.3.1"
+  }
+}
